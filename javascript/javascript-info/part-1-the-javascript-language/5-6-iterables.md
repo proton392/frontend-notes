@@ -5,6 +5,7 @@
 - Iterables are objects that...
   - Implement the `Symbol.iterator` method
   - Can be used in `for...of`
+  - Can be used with the spread syntax `...`
 - Array-likes are objects that...
   - Have indexed properties and `length`
 
